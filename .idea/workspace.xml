@@ -11,9 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14ddb3c6-cb4a-4a00-a379-a1e7bd36c3b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/utility/ReverseString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Summer2020_B20/src/day37_ArrayList/FrequencyOfChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day37_ArrayList/FrequencyOfChars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utility/ZombieAttack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utility/ZombieAttack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../generateGmail/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../generateGmail/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../generateGmail/GenerateGmail.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../generateGmail/GenerateGmail.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../generateGmail/src/Library/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/../generateGmail/src/Library/Util.java" afterDir="false" />
